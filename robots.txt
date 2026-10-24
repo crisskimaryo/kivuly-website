@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /kivuly-website/lp/
+
+Sitemap: https://crisskimaryo.github.io/kivuly-website/sitemap-index.xml
