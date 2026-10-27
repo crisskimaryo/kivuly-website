@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>Kivuly Studio</title>
+  <rect x="100" y="100" width="824" height="824" rx="185" fill="#ffb648"/>
+  <circle cx="512" cy="300" r="95" fill="#14161c"/>
+  <path d="M327 790 L327 600 Q327 430 512 430 Q697 430 697 600 L697 790 Q650 745 604 790 Q558 835 512 790 Q466 745 420 790 Q374 835 327 790 Z" fill="#14161c"/>
+  <path d="M478 505 L478 625 L578 565 Z" fill="#ffb648"/>
+</svg>
